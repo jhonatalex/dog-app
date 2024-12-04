@@ -1,5 +1,6 @@
 <template>
   <div id="app" class="bg-dark text-light min-vh-100">
+    <h1>Dog Ceo</h1>
     <router-view />
   </div>
 </template>
