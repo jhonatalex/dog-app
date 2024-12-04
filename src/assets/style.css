@@ -1,0 +1,26 @@
+body {
+    background-color: #121212; /* Fondo oscuro */
+    color: #f5f5f5; /* Texto claro */
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h2, h5, p {
+    color: #ffffff; /* Asegura el color blanco en los títulos y textos */
+  }
+  
+  .card {
+    background-color: #1e1e1e; /* Fondo oscuro para las tarjetas */
+    color: #f5f5f5; /* Texto claro dentro de las tarjetas */
+    border: 1px solid #333; /* Borde sutil para las tarjetas */
+  }
+  
+  .btn-secondary {
+    background-color: #444; /* Color para el botón secundario */
+    border-color: #555;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #555; /* Color de hover para el botón */
+    border-color: #666;
+  }
+  
